@@ -1,5 +1,6 @@
 ### Hello world! 👋
-My name is Christopher, and I am a 2nd Year Computer Science student at The University of British Columbia. Check out my projects below: 
+My name is Christopher, and I am a 2nd Year Computer Science student at The University of British Columbia. 
+Check out my projects below: 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrishadrian&hide=contribs,issues&count_private=true&show_icons=true&theme=tokyonight)
 
