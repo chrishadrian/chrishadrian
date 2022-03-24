@@ -6,6 +6,10 @@ Check out my projects below:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrishadrian&layout=compact&theme=tokyonight&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
+What I am currently doing:
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chrishadrian)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
