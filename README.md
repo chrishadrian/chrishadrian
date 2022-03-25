@@ -9,6 +9,13 @@ Check out my projects below:
 What I am currently doing:
 <!--START_SECTION:waka-->
 
+```text
+C++        13 hrs 49 mins  █████████████████▒░░░░░░░   68.92 %
+C          6 hrs 2 mins    ███████▓░░░░░░░░░░░░░░░░░   30.08 %
+Java       7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+Other      4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+```
+
 <!--END_SECTION:waka-->
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chrishadrian)](https://github.com/anuraghazra/github-readme-stats) -->
 
