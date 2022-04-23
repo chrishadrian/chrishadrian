@@ -10,7 +10,7 @@ What I am currently doing:
 <!--START_SECTION:waka-->
 
 ```text
-C          3 hrs 54 mins   █████████████████████████   99.71 %
+C          3 hrs 54 mins   █████████████████████████   99.61 %
 Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
