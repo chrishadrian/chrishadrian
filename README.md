@@ -10,9 +10,9 @@ What I am currently doing:
 <!--START_SECTION:waka-->
 
 ```text
-C          3 hrs 54 mins   █████████████████████████   99.61 %
-Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+C++        6 mins          ███████████████████░░░░░░   75.37 %
+C          2 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.13 %
+Assembly   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
 ```
 
 <!--END_SECTION:waka-->
