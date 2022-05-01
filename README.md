@@ -10,8 +10,7 @@ What I am currently doing:
 <!--START_SECTION:waka-->
 
 ```text
-C++   6 mins          ████████████████████████▒   97.50 %
-C     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
