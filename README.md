@@ -10,10 +10,10 @@ What I am currently doing:
 <!--START_SECTION:waka-->
 
 ```text
-Python     2 hrs 47 mins   ████████████████████████░   95.53 %
-Markdown   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
-HTML       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Python     1 hr 27 mins    ███████████████████████▓░   94.02 %
+Markdown   4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
+HTML       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
 <!--END_SECTION:waka-->
