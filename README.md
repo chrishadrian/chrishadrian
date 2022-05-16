@@ -10,10 +10,9 @@ What I am currently doing:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   8 hrs 1 min     ██████████████████████▓░░   91.13 %
-Python       29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
-Bash         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
-Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+TypeScript   8 hrs 1 min     ████████████████████████▒   96.95 %
+Bash         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
 
 <!--END_SECTION:waka-->
