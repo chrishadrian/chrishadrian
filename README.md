@@ -10,8 +10,8 @@ What I am currently doing:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   9 hrs 8 mins    ████████████████████▓░░░░   83.16 %
-Other        47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
+TypeScript   3 hrs 12 mins   ████████████████▒░░░░░░░░   65.29 %
+Other        44 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.96 %
 ```
 
 <!--END_SECTION:waka-->
