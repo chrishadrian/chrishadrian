@@ -10,12 +10,11 @@ What I am currently doing:
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     4 hrs 13 mins   ███████████████▓░░░░░░░░░   62.52 %
-TypeScript   2 hrs 2 mins    ███████▓░░░░░░░░░░░░░░░░░   30.18 %
-Bash         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
-JavaScript   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
-QML          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Markdown     4 hrs 13 mins   ██████████████▓░░░░░░░░░░   59.08 %
+TypeScript   2 hrs 2 mins    ███████░░░░░░░░░░░░░░░░░░   28.52 %
+JavaScript   36 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
+Bash         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 ```
 
 <!--END_SECTION:waka-->
