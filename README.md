@@ -10,12 +10,12 @@ What I am currently doing:
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     4 hrs 13 mins   █████████▓░░░░░░░░░░░░░░░   38.84 %
-JavaScript   3 hrs 12 mins   ███████▒░░░░░░░░░░░░░░░░░   29.47 %
-TypeScript   2 hrs 38 mins   ██████░░░░░░░░░░░░░░░░░░░   24.29 %
-Bash         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
-JSON         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
-Git Config   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+Markdown     4 hrs 13 mins   ███████████░░░░░░░░░░░░░░   43.43 %
+JavaScript   3 hrs 7 mins    ████████░░░░░░░░░░░░░░░░░   32.10 %
+TypeScript   59 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 %
+Bash         39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
+QML          23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
+JSON         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
 ```
 
 <!--END_SECTION:waka-->
