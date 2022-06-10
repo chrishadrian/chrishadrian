@@ -10,12 +10,12 @@ What I am currently doing:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   8 hrs 47 mins   ████████████████▓░░░░░░░░   66.14 %
-CSS          1 hr 51 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.98 %
-TypeScript   1 hr 31 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.41 %
-Python       32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
-Bash         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
-Markdown     10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+JavaScript   9 hrs 49 mins   █████████████████▒░░░░░░░   68.77 %
+CSS          1 hr 51 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.02 %
+TypeScript   1 hr 31 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.70 %
+Python       33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
+Markdown     10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+C++          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
 ```
 
 <!--END_SECTION:waka-->
