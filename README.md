@@ -10,9 +10,9 @@ What I am currently doing:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   12 hrs 39 mins  ████████████████████░░░░░   80.66 %
-TypeScript   3 hrs 1 min     ████▓░░░░░░░░░░░░░░░░░░░░   19.31 %
-C++          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+JavaScript   11 hrs 38 mins  █████████████████████▒░░░   85.81 %
+TypeScript   1 hr 55 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.15 %
+C++          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
