@@ -10,10 +10,12 @@ What I am currently doing:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   15 hrs 31 mins  ██████████████████░░░░░░░   72.07 %
-TypeScript   4 hrs 41 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.78 %
-Bash         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-Other        13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+JavaScript   10 hrs 47 mins  ████████████▓░░░░░░░░░░░░   51.11 %
+TypeScript   5 hrs 5 mins    ██████░░░░░░░░░░░░░░░░░░░   24.14 %
+EJS          1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 %
+CSS          1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
+Bash         41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
+HTML         39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
 ```
 
 <!--END_SECTION:waka-->
