@@ -10,12 +10,12 @@ What I am currently doing:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   4 hrs 9 mins    ███████████░░░░░░░░░░░░░░   43.45 %
-YAML         1 hr 20 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.04 %
-JSON         1 hr 18 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.60 %
-TypeScript   1 hr 17 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.44 %
-Bash         1 hr 1 min      ██▓░░░░░░░░░░░░░░░░░░░░░░   10.69 %
-Git Config   21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
+JavaScript   4 hrs 31 mins   █████████████▓░░░░░░░░░░░   54.51 %
+JSON         1 hr 16 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.37 %
+TypeScript   1 hr            ███░░░░░░░░░░░░░░░░░░░░░░   12.23 %
+YAML         40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
+Bash         21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+Git Config   20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
 ```
 
 <!--END_SECTION:waka-->
