@@ -10,8 +10,7 @@ What I am currently doing:
 <!--START_SECTION:waka-->
 
 ```text
-Python     4 mins          ██████████████████████▒░░   89.09 %
-Markdown   0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
