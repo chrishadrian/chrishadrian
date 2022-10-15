@@ -10,10 +10,7 @@ What I am currently doing:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   16 mins         █████████████████████░░░░   83.71 %
-Markdown     3 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.01 %
-Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
