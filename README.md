@@ -10,7 +10,7 @@ What I am currently doing:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Go   26 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
