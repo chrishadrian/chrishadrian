@@ -10,11 +10,9 @@ What I am currently doing:
 <!--START_SECTION:waka-->
 
 ```text
-Go           2 hrs 26 mins   ██████████████▓░░░░░░░░░░   58.05 %
-Python       40 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.95 %
-Git Config   20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 %
-Markdown     15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
-Other        15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
+Go           2 hrs 26 mins   ██████████████████▓░░░░░░   74.59 %
+Git Config   20 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.33 %
+Other        15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
 ```
 
 <!--END_SECTION:waka-->
