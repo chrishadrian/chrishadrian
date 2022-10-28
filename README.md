@@ -10,9 +10,9 @@ What I am currently doing:
 <!--START_SECTION:waka-->
 
 ```text
-Go           2 hrs 26 mins   ██████████████████▓░░░░░░   74.59 %
-Git Config   20 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.33 %
-Other        15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
+Go           2 hrs 26 mins   ██████████████████▒░░░░░░   73.31 %
+Git Config   20 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.15 %
+Other        15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
 ```
 
 <!--END_SECTION:waka-->
