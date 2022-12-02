@@ -10,11 +10,8 @@ What I am currently doing:
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     37 mins         ███████████████▒░░░░░░░░░   61.31 %
-JavaScript   22 mins         █████████▒░░░░░░░░░░░░░░░   36.85 %
-JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
-CSS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Markdown     37 mins         █████████████████████▓░░░   86.20 %
+JavaScript   6 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.80 %
 ```
 
 <!--END_SECTION:waka-->
