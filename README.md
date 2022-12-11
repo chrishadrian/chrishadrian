@@ -10,8 +10,12 @@ What I am currently doing:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   4 mins          █████████████████████████   99.84 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+JavaScript   1 hr 41 mins    ████████████████████▓░░░░   83.15 %
+HTML         11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
+JSON         6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
+XML          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
