@@ -10,8 +10,7 @@ What I am currently doing:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   0 secs          ███████████████▓░░░░░░░░░   62.68 %
-Markdown     0 secs          █████████▒░░░░░░░░░░░░░░░   37.32 %
+Markdown   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
