@@ -10,7 +10,12 @@ What I am currently doing:
 <!--START_SECTION:waka-->
 
 ```text
-Dart   16 mins         █████████████████████████   100.00 %
+JavaScript   3 hrs 15 mins   ██████████████████████▒░░   89.15 %
+Dart         16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
+CSS          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
