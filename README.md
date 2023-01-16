@@ -2,7 +2,7 @@
 My name is Christopher, and I am a 3rd Year Computer Science student at The University of British Columbia. I'm currently doing my Co-op program at Alida.
 Check out my GitHub stats below: 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrishadrian&hide=contribs,issues&count_private=true&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats-chrishadrian.vercel.app/api?username=chrishadrian&hide=contribs,issues&count_private=true&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrishadrian&layout=compact&theme=tokyonight&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
