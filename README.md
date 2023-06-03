@@ -9,12 +9,12 @@ Check out my GitHub stats below:
 What I am currently doing:
 <!--START_SECTION:waka-->
 
-```text
-JavaScript   7 hrs 10 mins   ████████████████▓░░░░░░░░   67.02 %
-JSON         2 hrs 30 mins   ██████░░░░░░░░░░░░░░░░░░░   23.42 %
-Other        16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
-TOML         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
-CSS          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+```txt
+JavaScript   7 hrs 21 mins   █████████████████░░░░░░░░   68.65 %
+JSON         2 hrs 28 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.03 %
+Git          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+Other        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+CSS          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
 ```
 
 <!--END_SECTION:waka-->
