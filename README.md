@@ -10,11 +10,11 @@ What I am currently doing:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   7 hrs 41 mins   ███████████████████████░░   92.44 %
-YAML         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
-JSON         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-TypeScript   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
-Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+JavaScript   5 hrs 12 mins   ██████████████████████▒░░   89.24 %
+YAML         14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
+JSON         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+TypeScript   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
 ```
 
 <!--END_SECTION:waka-->
