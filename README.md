@@ -6,7 +6,7 @@ Check out my GitHub stats below:
 
 ![Top Langs](https://github-readme-stats-chrishadrian.vercel.app/api/top-langs/?username=chrishadrian&exclude_repo=prodify,cpsc221&layout=compact&theme=tokyonight&langs_count=4)
 
-What I am currently doing:
+What I've been up to this week:
 <!--START_SECTION:waka-->
 
 ```txt
