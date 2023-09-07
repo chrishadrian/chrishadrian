@@ -1,5 +1,7 @@
 ### Hello world! 👋
-My name is Christopher, and I am a 3rd Year Computer Science student at The University of British Columbia. I'm currently doing my Co-op program at Alida.
+My name is Christopher, and I am a 3rd Year Computer Science student at The University of British Columbia. I have a 16 months of professional experience in software development.
+
+
 Check out my GitHub stats below: 
 
 ![GitHub stats](https://github-readme-stats-chrishadrian.vercel.app/api?username=chrishadrian&hide=contribs,issues&count_private=true&show_icons=true&theme=tokyonight)
