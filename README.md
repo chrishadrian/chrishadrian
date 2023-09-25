@@ -12,11 +12,11 @@ What I've been up to this week:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   2 hrs 20 mins   █████████████████▓░░░░░░░   71.17 %
-TeX          24 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 %
-Python       13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
-TypeScript   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
-TSQL         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+JavaScript   3 hrs 23 mins   ███████████████████▒░░░░░   76.95 %
+TeX          24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 %
+Python       13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
+TypeScript   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+TSQL         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
 ```
 
 <!--END_SECTION:waka-->
