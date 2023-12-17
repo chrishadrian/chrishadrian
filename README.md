@@ -12,8 +12,7 @@ What I've been up to this week:
 <!--START_SECTION:waka-->
 
 ```txt
-Other   0 secs          ██████████████████████░░░   88.22 %
-SQL     0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   11.78 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
