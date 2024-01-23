@@ -12,11 +12,11 @@ What I've been up to this week:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs 52 mins   ██████████████▒░░░░░░░░░░   57.30 %
-JavaScript   1 hr 5 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.84 %
-C            31 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.32 %
-Makefile     20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
-CSV          6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+TypeScript   2 hrs 52 mins   ███████████▓░░░░░░░░░░░░░   47.33 %
+JavaScript   1 hr 5 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.04 %
+Java         1 hr 3 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.40 %
+C            31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
+Makefile     20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
 ```
 
 <!--END_SECTION:waka-->
