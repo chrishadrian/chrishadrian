@@ -12,11 +12,8 @@ What I've been up to this week:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   13 mins         █████████▒░░░░░░░░░░░░░░░   37.35 %
-Other        11 mins         ███████▓░░░░░░░░░░░░░░░░░   31.25 %
-C            10 mins         ███████▓░░░░░░░░░░░░░░░░░   30.33 %
-Makefile     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+JavaScript   13 mins         █████████████████████████   99.38 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 ```
 
 <!--END_SECTION:waka-->
