@@ -12,8 +12,7 @@ What I've been up to this week:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   13 mins         █████████████████████████   99.38 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
