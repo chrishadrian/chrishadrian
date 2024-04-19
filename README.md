@@ -12,11 +12,7 @@ What I've been up to this week:
 <!--START_SECTION:waka-->
 
 ```txt
-C            18 mins         ████████████████████░░░░░   80.06 %
-Git Config   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
-Markdown     1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
-Bash         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
-JSON         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
