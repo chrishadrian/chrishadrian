@@ -12,7 +12,8 @@ What I've been up to this week:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C++     3 mins          ████████████████████████▒   97.02 %
+Other   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
 ```
 
 <!--END_SECTION:waka-->
