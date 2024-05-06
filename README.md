@@ -12,9 +12,7 @@ What I've been up to this week:
 <!--START_SECTION:waka-->
 
 ```txt
-Python     5 mins          ███████████████████████▒░   93.20 %
-Markdown   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
-Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
