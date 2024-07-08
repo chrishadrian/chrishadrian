@@ -1,5 +1,5 @@
 ### Hello world! 👋
-My name is Christopher, and I am a 3rd Year Computer Science student at The University of British Columbia. I have 16 months of professional experience in software development.
+My name is Christopher, and I am a 4th Year Computer Science student at The University of British Columbia. I have 16 months of professional experience in software development.
 
 
 Check out my GitHub stats below: 
