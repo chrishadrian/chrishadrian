@@ -12,11 +12,11 @@ What I've been up to this week:
 <!--START_SECTION:waka-->
 
 ```txt
-Erlang       6 hrs 1 min     ███████████░░░░░░░░░░░░░░   43.66 %
-Python       3 hrs 58 mins   ███████▒░░░░░░░░░░░░░░░░░   28.77 %
-TeX          2 hrs 58 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.58 %
-JavaScript   48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Erlang       13 hrs 33 mins  ████████████████▓░░░░░░░░   67.08 %
+TeX          3 hrs 22 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.68 %
+Python       2 hrs 27 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.16 %
+JavaScript   48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
