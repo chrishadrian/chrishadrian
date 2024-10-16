@@ -12,9 +12,8 @@ What I've been up to this week:
 <!--START_SECTION:waka-->
 
 ```txt
-Python   2 hrs 2 mins    █████████████████░░░░░░░░   68.47 %
-TeX      45 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.74 %
-Text     10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
+Python   2 hrs 12 mins   █████████████████▒░░░░░░░   69.15 %
+TeX      59 mins         ███████▓░░░░░░░░░░░░░░░░░   30.85 %
 ```
 
 <!--END_SECTION:waka-->
