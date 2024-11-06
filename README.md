@@ -12,7 +12,11 @@ What I've been up to this week:
 <!--START_SECTION:waka-->
 
 ```txt
-Erlang   1 hr 5 mins     █████████████████████████   100.00 %
+TeX        1 hr 14 mins    ██████████▓░░░░░░░░░░░░░░   42.02 %
+Erlang     1 hr 6 mins     █████████▒░░░░░░░░░░░░░░░   37.50 %
+C          27 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.83 %
+Makefile   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
+Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
