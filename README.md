@@ -12,10 +12,8 @@ What I've been up to this week:
 <!--START_SECTION:waka-->
 
 ```txt
-Erlang   3 hrs 17 mins   ████████████▓░░░░░░░░░░░░   50.27 %
-TeX      3 hrs 14 mins   ████████████▒░░░░░░░░░░░░   49.73 %
-Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+TeX      1 hr 44 mins    █████████████████████████   99.87 %
+Erlang   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
