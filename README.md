@@ -12,11 +12,9 @@ What I've been up to this week:
 <!--START_SECTION:waka-->
 
 ```txt
-TeX           2 hrs 43 mins   ███████████████████▒░░░░░   77.91 %
-Cuda          40 mins         █████░░░░░░░░░░░░░░░░░░░░   19.58 %
-Erlang        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
-Makefile      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+TeX      36 mins         █████████████░░░░░░░░░░░░   52.03 %
+Cuda     30 mins         ██████████▓░░░░░░░░░░░░░░   42.80 %
+Erlang   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
 ```
 
 <!--END_SECTION:waka-->
