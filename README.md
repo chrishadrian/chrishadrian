@@ -12,9 +12,8 @@ What I've been up to this week:
 <!--START_SECTION:waka-->
 
 ```txt
-TeX      36 mins         █████████████░░░░░░░░░░░░   52.03 %
-Cuda     30 mins         ██████████▓░░░░░░░░░░░░░░   42.80 %
-Erlang   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
+TeX    35 mins         █████████████▒░░░░░░░░░░░   53.93 %
+Cuda   30 mins         ███████████▓░░░░░░░░░░░░░   46.07 %
 ```
 
 <!--END_SECTION:waka-->
