@@ -12,8 +12,7 @@ What I've been up to this week:
 <!--START_SECTION:waka-->
 
 ```txt
-TeX    35 mins         █████████████▒░░░░░░░░░░░   53.93 %
-Cuda   30 mins         ███████████▓░░░░░░░░░░░░░   46.07 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
