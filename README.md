@@ -12,11 +12,11 @@ What I've been up to this week:
 <!--START_SECTION:waka-->
 
 ```txt
-Go           7 hrs 46 mins   ██████████████░░░░░░░░░░░   55.35 %
-Python       2 hrs 38 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.84 %
-TypeScript   1 hr 33 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.08 %
-Markdown     1 hr 26 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.32 %
-JSON         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+Go           7 hrs 6 mins    ██████████████░░░░░░░░░░░   55.91 %
+Python       2 hrs 38 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.81 %
+TypeScript   1 hr 33 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.23 %
+Markdown     1 hr 4 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 %
+Git Config   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
 ```
 
 <!--END_SECTION:waka-->
