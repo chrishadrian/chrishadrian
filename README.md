@@ -12,9 +12,10 @@ What I've been up to this week:
 <!--START_SECTION:waka-->
 
 ```txt
-Go         1 hr 29 mins    ████████████████████▒░░░░   81.42 %
-Other      20 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.32 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Go         1 hr 29 mins    ████████████████████▒░░░░   81.11 %
+Other      20 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.21 %
+Python     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
