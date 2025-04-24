@@ -12,7 +12,9 @@ What I've been up to this week:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other      2 mins          ██████████████▓░░░░░░░░░░   58.36 %
+Java       1 min           ██████████▒░░░░░░░░░░░░░░   41.17 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 ```
 
 <!--END_SECTION:waka-->
