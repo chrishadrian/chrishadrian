@@ -12,7 +12,7 @@ What I've been up to this week:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 40 mins    █████████████████████████   100.00 %
+TypeScript   1 hr 17 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
