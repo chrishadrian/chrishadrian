@@ -1,5 +1,5 @@
 ### Hello world! 👋
-My name is Christopher, and I am a 4th Year Computer Science student at The University of British Columbia. I have 16 months of professional experience in software development.
+My name is Christopher, and I’m a Computer Science graduate from UBC with 16 months of professional experience in software development. This September, I’ll be joining AWS. Over the summer, I’ve been working on a personal project that I’m really excited about—and I can’t wait to share it with you!
 
 
 Check out my GitHub stats below: 
