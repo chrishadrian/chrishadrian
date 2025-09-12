@@ -12,8 +12,9 @@ What I've been up to this week:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   24 mins         ██████████████▓░░░░░░░░░░   58.64 %
-Other        17 mins         ██████████▒░░░░░░░░░░░░░░   41.36 %
+TypeScript   37 mins         █████████████████░░░░░░░░   68.29 %
+Other        17 mins         ████████░░░░░░░░░░░░░░░░░   31.49 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
