@@ -12,7 +12,7 @@ What I've been up to this week:
 <!--START_SECTION:waka-->
 
 ```txt
-CSV   0 secs          █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
