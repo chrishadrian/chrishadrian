@@ -12,7 +12,8 @@ What I've been up to this week:
 <!--START_SECTION:waka-->
 
 ```txt
-C++   3 mins                █████████████████████████   100.00 %
+C++   17 mins               █████████████████████████   99.76 %
+CSV   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
